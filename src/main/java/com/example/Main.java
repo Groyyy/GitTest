@@ -8,5 +8,6 @@ public class Main {
         System.out.printf("bendi commit 222");
         System.out.printf("bendi commit 333");
         System.out.printf("GitHub commit 444");
+        System.out.printf("GitHub pull commit 555");
     }
 }
